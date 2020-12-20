@@ -4,15 +4,15 @@ Hagihara, H., Ienaga, N., Terayama, K., Moriguchi, Y., & & Sakagami, M. (in pres
 
 
 ## Dataset files
-- looking_represents_choosing_phase1.csv
+- **looking_represents_choosing_phase1.csv**
 	- Dataset for Phase 1 (model construction)
 	- Videos of 369 trials with 24 monolingual Japanese toddlers aged 18–23 months
 	- 15 trials (8 toddlers) were excluded for lack of explicit pointing responses
-- looking_represents_choosing_phase2.csv
+- **looking_represents_choosing_phase2.csv**
 	- Dataset for Phase 2 (model validation)
 	- Videos of 183 trials with 12 monolingual Japanese toddlers aged 18–23 months
 	- 9 trials (5 toddlers) were excluded for lack of explicit pointing responses
-- looking_represents_choosing_phase3.csv
+- **looking_represents_choosing_phase3.csv**
 	- Dataset for Phase 3 (model application to data with no-pointing responses)
 	- Videos of 176 trials with 12 monolingual Japanese toddlers aged 18–22 months
 	- 16 trials (5 toddlers) were excluded because they showed explicit pointing behavior
@@ -39,7 +39,4 @@ Hagihara, H., Ienaga, N., Terayama, K., Moriguchi, Y., & & Sakagami, M. (in pres
 
 
 ## Contact
-If you have any questions, please email at hiromichi.h <at> gmail.com (please replace <at> with @).
-
-
-		ageM											
+If you have any questions, please email at hiromichi.h <at> gmail.com (please replace <at> with @).							
